@@ -37,7 +37,7 @@ public class User {
         } else {
             System.out.println("No updated user");
         }
-        System.out.println("update = " + counter);
+        System.out.println("Update = " + counter);
 
     }
 

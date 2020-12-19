@@ -15,7 +15,7 @@ public class AnimalMain {
 //        cat.print();
 
         Dog dog = new Dog();
-        dog.name = "Doge";
+        dog.name = "Dogge";
 //        System.out.println(dog.name);
 //        dog.print();
 
